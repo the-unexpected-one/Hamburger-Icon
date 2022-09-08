@@ -8,4 +8,4 @@ function writeText(){
         index=0;
     }
 }
-setInterval(writeText,100)
+setInterval(writeText)
